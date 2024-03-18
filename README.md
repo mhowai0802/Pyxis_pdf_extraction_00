@@ -8,7 +8,7 @@ This project does amazing things and makes your life easier.
 1. Mongodb installation:
 https://www.youtube.com/watch?v=BwVOIRX3VXk&t=163s
 2. Mongodb GUI:
-https://www.youtube.com/watch?v=8gUQL2zlpvI)https://www.youtube.com/watch?v=8gUQL2zlpvI
+https://www.youtube.com/watch?v=8gUQL2zlpvI
 
 ## Python Flask Initiation
 
