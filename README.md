@@ -13,13 +13,13 @@ https://www.youtube.com/watch?v=8gUQL2zlpvI)https://www.youtube.com/watch?v=8gUQ
 ## Python Flask Initiation
 
 1. Run the following command to start the project:
-   \`\`\`
+   ```
    flask run --host=0.0.0.0
-   \`\`\`
+   ```
 
 ## VueJS Initiation
 
 1. Run the following command to start the project:
-   \`\`\`
+   ```
    npm run serve
-   \`\`\`
+   ```
