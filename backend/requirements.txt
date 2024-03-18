@@ -1,0 +1,14 @@
+PyPDF4
+tabula
+jpype1
+pypdf
+requests
+pymongo
+flask
+flask_cors
+pillow
+pytesseract
+wand==0.4.4
+fitz
+frontend
+PyMuPDF
